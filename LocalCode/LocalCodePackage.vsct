@@ -50,7 +50,7 @@
         </Strings>
       </Button>
     </Buttons>
-    
+
     <!--The bitmaps section is used to define the bitmaps that are used for the commands.-->
     <Bitmaps>
       <!--  The bitmap id is defined in a way that is a little bit different from the others:
@@ -61,7 +61,7 @@
       <Bitmap guid="guidImages" href="Resources\ToolWindow1Command.png" usedList="bmpPic1, bmpPic2, bmpPicSearch, bmpPicX, bmpPicArrows, bmpPicStrikethrough"/>
     </Bitmaps>
   </Commands>
-  
+
   <Symbols>
     <!-- This is the package guid. -->
     <GuidSymbol name="guidLocalCodePackage" value="{8c773595-be15-459f-82b3-ff64c4084105}" />
